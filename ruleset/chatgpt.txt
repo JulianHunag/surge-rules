@@ -21,3 +21,4 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,static.cloudflareinsights.com
+DOMAIN-SUFFIX,chat.com
