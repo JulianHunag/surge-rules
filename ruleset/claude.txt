@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,tuta.com
