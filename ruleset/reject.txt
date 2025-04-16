@@ -26580,7 +26580,6 @@ DOMAIN-SUFFIX,googie-anaiytics.com
 DOMAIN-SUFFIX,google-ads.hara.vn
 DOMAIN-SUFFIX,google-analytics-cn.com
 DOMAIN-SUFFIX,google-analytics.bi.owox.com
-DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,google-js-01.xyz
 DOMAIN-SUFFIX,google-js-02.xyz
 DOMAIN-SUFFIX,google-js-08.xyz
