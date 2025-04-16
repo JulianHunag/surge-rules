@@ -26602,8 +26602,6 @@ DOMAIN-SUFFIX,googlerank.info
 DOMAIN-SUFFIX,googles.video
 DOMAIN-SUFFIX,googleshopping.sapoapps.vn
 DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,googletagmanager-cn.com
-DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,googlevads-cn.com
 DOMAIN-SUFFIX,goohimom.net
