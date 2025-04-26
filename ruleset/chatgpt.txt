@@ -24,3 +24,6 @@ DOMAIN-SUFFIX,static.cloudflareinsights.com
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN-KEYWORD,openai
+IP-CIDR,24.199.123.28/32
+IP-CIDR,64.23.132.171/32
