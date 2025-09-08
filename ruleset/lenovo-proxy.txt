@@ -1,0 +1,2 @@
+DOMAIN,cbso.lenovo.com
+DOMAIN,lscs.lenovo.com
