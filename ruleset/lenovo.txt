@@ -2,3 +2,4 @@ DOMAIN-SUFFIX,lenovo.com
 DOMAIN-KEYWORD,lenovo
 DOMAIN-KEYWORD,quotation
 DOMAIN-KEYWORD,nitrogen
+IP-CIDR,10.0.0.0/8
