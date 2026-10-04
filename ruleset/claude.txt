@@ -6,4 +6,5 @@ DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,clau.de
 IP-CIDR,160.79.104.0/21
