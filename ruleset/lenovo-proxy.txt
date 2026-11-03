@@ -1,4 +1,5 @@
 DOMAIN,cbso.lenovo.com
+DOMAIN,lenovopartner-uat.lenovo.com
 DOMAIN,lscs.lenovo.com
 DOMAIN-SUFFIX,powerapps.com
 DOMAIN-SUFFIX,onedrive.live.com
