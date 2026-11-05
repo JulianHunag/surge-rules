@@ -1,0 +1,19 @@
+# Source: Content-Security-Policy header of https://muse.ai (checked 2026-11-05)
+# No official network-configuration doc found for Meta Muse; this list follows that CSP
+# Muse web app, Meta AI backend (gateway / edge-chat / shortwave websockets), Meta login, Meta CDN
+# Stripe and Sentry hosts in the CSP are already matched by claude.txt / chatgpt.txt
+
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metaaiusercontent.com
+DOMAIN-SUFFIX,ecto1usercontent.com
+DOMAIN-SUFFIX,meta-agents-apps.workers.dev
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,cdn.whatsapp.net
+DOMAIN-SUFFIX,oculuscdn.com
